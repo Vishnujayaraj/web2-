@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+}
+
+
+
+.bg-img {
+    background-image: url("./pic1.jpg.webp");
+  
+    min-height: 480px;
+  
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    
+    position: relative;
+  }
+  
+  
+  .container {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+  }
+  
+  
+  .topnav {
+    overflow: hidden;
+    
+  }
+  .text{
+    margin-top: 90px;
+    color:#ddd
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .button1{
+   
+     background:transparent;
+    height: 45px;
+    width: 90px;
+    color: white;
+  }
+  .bg-img1 {
+    background-image: url("./pic3.jpg.webp");
+  
+    min-height: 480px;
+  
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1077px;
+  
+    
+    position: absolute;
+  }
+  .text1{
+
+    margin-top: 182px;
+    margin-left: 49px;
+    color: white;
+}
+
+  
+  .button1{
+
+  }
+  .bg-img2 {
+    background-image: url("./pic2.jpg.webp");
+  
+    min-height: 480px;
+  
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1077px;
+    margin-top: 480px;
+  
+    
+    position: relative;
+  }
+  .text2{
+
+    margin-top: 182px;
+    margin-left: 49px;
+    color: white;
+    position: absolute;
+}
+.bg-img3 {
+    background-image: url("./image3.webp");
+  
+    min-height: 480px;
+  
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1077px;
+    margin-top: -20px;
+  
+    
+    position: relative;
+  }
+  .text3{
+    margin-top: 182px;
+    margin-left: 49px;
+    color: white;
+    position: absolute;
+  }
+  .footer{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    position: relative;
+  }
+  .foot1{
+    padding-left: 15px;
+    display: flex;
+    color: #ddd;
+    
+  }
+  .a{
+    padding-left: 10px;
+  }
+  .b{
+    padding-left: 10px;
+  }
+  .c{
+    padding-left: 10px;
+  }
+  .d{
+    padding-left: 10px;
+  }
+  .e{
+    padding-left: 10px;
+  }
+  .f{
+    padding-left: 10px;
+  }
+  .g{
+    padding-left: 10px;
+  }
+  
+  
+  
